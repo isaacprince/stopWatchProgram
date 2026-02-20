@@ -24,7 +24,7 @@ body{
     font-family: "monospace", sans-serif;
     font-weight: bold;
     color: hsl (0, 0%, 30%);
-    text-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.75);
+    text-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.1);
     margin-bottom: 25px;
 }
 #controls button{
